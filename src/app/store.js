@@ -6,3 +6,4 @@ export const store = configureStore({
     campsites: campsitesReducer
   }
 });
+
